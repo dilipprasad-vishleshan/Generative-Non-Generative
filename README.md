@@ -37,4 +37,5 @@ scikit-learn 1.5.0
 torch 2.3.1
 
 transformers 4.41.2
+
 sentence-transformers 3.0.1
