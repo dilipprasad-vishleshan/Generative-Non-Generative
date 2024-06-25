@@ -23,11 +23,18 @@
 10> non-generalized.csv - This file is generated after running "gng classification1v2 - DecisionTreeClassifier.ipynb" file. This file only stores non-generative queries only also logic is applied so that it can only store unique queries.
 
 **Requirements**
+
 Python 3.11.7
+
 fastapi 0.111.0
+
 numpy 1.26.4
+
 pandas 2.2.2
+
 scikit-learn 1.5.0
+
 torch 2.3.1
+
 transformers 4.41.2
 sentence-transformers 3.0.1
