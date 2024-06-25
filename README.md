@@ -16,7 +16,7 @@
 
 7> **gng classification3 - SentenceTransformer.ipynb** -> This file make use of SentenceTransformer to generate embeddings for two queries and then use cosine similarity on the generated embeddings to determine whether they are similar or not.
 
-8> **gng classification3 - SentenceTransformer Fast API.py** -> This file creates API for gng classification3 - SentenceTransformer.ipynb file.
+8> **gng_classification3_SentenceTransformer_Fast_API.py** -> This file creates API for gng classification3 - SentenceTransformer.ipynb file.
 
 9> **generalized.csv** - This file is generated after running "gng classification1v2 - DecisionTreeClassifier.ipynb" file. This file only stores generative queries only also logic is applied so that it can only store unique queries.
 
