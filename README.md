@@ -26,6 +26,8 @@
 
 12> **gng classification3 - SentenceTransformer - Testing_saved_model.py** - This file loads the sentence transformers from the folder were it was saved for inference purposes.
 
+13> **similarity_search_on_saved_csv.py** - This file implements vectorization to fast forward the process of similarity search.
+
 
 **Requirements**
 
