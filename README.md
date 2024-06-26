@@ -22,6 +22,10 @@
 
 10> **non-generalized.csv** - This file is generated after running "gng classification1v2 - DecisionTreeClassifier.ipynb" file. This file only stores non-generative queries only also logic is applied so that it can only store unique queries.
 
+11> **gng classification3 - SentenceTransformer - Saving_model.py** - This file saves the instance of the sentence transformers in a folder, later at the time of inference, model can be loaded from the same folder.
+
+12> **gng classification3 - SentenceTransformer - Testing_saved_model.py** - This file loads the sentence transformers from the folder were it was saved for inference purposes.
+
 
 **Requirements**
 
